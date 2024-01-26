@@ -1,0 +1,22 @@
+package ch09;
+
+import java.io.*;
+import javax.servlet.*;
+import javax.servlet.http.*;
+
+public class UseForwardServlet1 extends HttpServlet {
+
+	public void doGet(HttpServletRequest request, HttpServletResponse response)
+ 	throws ServletException, IOException {
+ 
+ 		System.out.println("サーブレットの実行");
+ 
+ 		//フォワード先の指定
+ 		RequestDispatcher dispatcher =	request.getRequestDispatcher("/view/ch06/useForward.jsp");
+ 
+ 		//フォワードの実行
+ 		dispatcher.forward(request, response);
+ 
+ 		System.out.println("サーブレットの終了");
+ 	}
+ }

@@ -1,0 +1,15 @@
+INDEX VERSION 1.4+/Users/akari/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+1253970472.index
+126409049.index
+3871298888.index
+142359045.index
+2379363660.index
+3088917608.index
+3784092586.index
+3926130084.index
+489414467.index
+3252315719.index
+1727205192.index
+945594974.index
+865960247.index
+3871298888.index

@@ -1,0 +1,15 @@
+INDEX VERSION 1.134
+/Users/akari/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3088917608.index
+/web_basic/src/main/java
+/Users/akari/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/945594974.index
+/web_basic/src/main/java
+/Users/akari/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3871298888.index
+/web_basic/src/main/java
+/Users/akari/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3784092586.index
+/web_basic/src/main/java
+/Users/akari/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3252315719.index
+/web_basic/src/main/java
+/Users/akari/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/142359045.index
+/web_basic/src/main/java
+/Users/akari/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1727205192.index
+/web_basic/src/main/java
