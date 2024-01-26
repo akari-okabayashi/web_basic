@@ -16,7 +16,7 @@ public class MathRequestServlet1 extends HttpServlet {
 		Math math = new Math();
 
 		//リクエストスコープへのMathオブジェクトの登録
-		request.setParameter("RequestNum", math);
+		request.setAttribute("RequestNum", math);
 		request.getRequestDispatcher("/view/ex01/useMath1.jsp").forward(request, response);
 	}
 }

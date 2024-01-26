@@ -1,18 +1,19 @@
 <%@page contentType= "text/html; charset=UTF-8" %>
-<%@page import="ch11.User" %>
+<%@page import="ex01.Math" %>
 
 <%
 //リクエストスコープからのデータの取得
-Math math = (Math)request.getParameter("RequestNum");
+Math math = new Math();
+request.getParameter("RequestNum");
 int num1 = math.getNum1();
 int num2 = math.getNum2();
+int answer = math.getAnswer();
 %>
 <html>
 	<head>
-		<title>足し算したよ</title>
+		<title>足し算</title>
 	</head>
 	<body>
-		名前は：<%= answer %><br>
-		年齢は：<%= age %><br>
+		<%=num1%> + <%= num2%>  &equals; <%= answer %>
 	</body>
 </html>
